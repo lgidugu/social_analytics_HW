@@ -1,1 +1,2 @@
 # social_analytics_HW
+In social analystics assignment,  sentiment analysis was done from twitter using target words. In the above assignment sentiment analysis was done on NEWS organizations such as BBC, CBS, CNN, Fox, and New York times. API keys were used to get the latest tweets and anlyse them for compund, positive, negetive and neutrl responses. The plots in this assignment represent those sentiment analysis.
